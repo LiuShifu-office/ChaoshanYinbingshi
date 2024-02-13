@@ -1,0 +1,47 @@
+state={
+	id=275
+	name="STATE_275"
+	manpower = 1400000
+	local_supplies=1.0
+	state_category = rural
+	 
+	resources = {
+	}
+
+	history={
+		victory_points = {
+			8912 15
+		}
+		victory_points = {
+			3867 5
+		}
+		victory_points = {
+			2289 5
+		}
+		victory_points = {
+			5849 2
+		}
+		victory_points = {
+			2126 3
+		}
+		owner = MHF
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			goods_factory = 1
+			8912 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = FKI
+		add_core_of = MHF
+		add_dynamic_modifier = {
+			modifier = ig_canned_food
+		}
+		add_dynamic_modifier = { modifier = unequal_treaties }
+	}
+
+	provinces={
+			567 2126 3867 5849 8912
+	}
+}
