@@ -1,0 +1,29 @@
+
+state={
+	id=103
+	name="STATE_103"
+	state_category = town
+	
+	history={
+		victory_points = {
+			7523 5
+		}
+		victory_points = {
+			4232 5
+		}
+		owner = XKW
+		buildings = {
+			infrastructure = 3
+			farm = 2
+		}
+		add_core_of = XKW
+		add_dynamic_modifier = { modifier = rg_silk }	
+	}
+
+	provinces={
+		829 4232 1152 7523
+	}
+	manpower = 1527828
+	local_supplies=1.0
+	buildings_max_level_factor = 1.000
+}
