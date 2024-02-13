@@ -1,7 +1,7 @@
 state={
-	id=270
-	name="STATE_270"
-	manpower = 1350000
+	id=267
+	name="STATE_267"
+	manpower = 750000
 	local_supplies=1.0
 	state_category = pastoral
 	 
@@ -10,25 +10,24 @@ state={
 
 	history={
 		victory_points = {
-			368 2
+			5124 20
 		}
 		victory_points = {
-			2371 5
+			4688 5
 		}
-		owner = FKI
+		owner = MHF
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 			farm = 1
 		}
 		add_core_of = FKI
-		add_core_of = FKA
+		add_core_of = MHF
 		add_dynamic_modifier = {
-			modifier = rg_fish
+			modifier = rg_fruits
 		}
-		add_dynamic_modifier = { modifier = unequal_treaties }
 	}
 
 	provinces={
-			368 2371 8808
+			4688 5124 5875 8898 8906 8946 4988
 	}
 }

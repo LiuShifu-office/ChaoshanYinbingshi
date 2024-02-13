@@ -1,0 +1,34 @@
+state={
+	id=271
+	name="STATE_271"
+	manpower = 68000
+	local_supplies=1.0
+	state_category = wasteland
+	resources = {
+	}
+
+	history={
+		victory_points = {
+			227 3
+		}
+		victory_points = {
+			608 3
+		}
+		victory_points = {
+			3127 5
+		}
+		owner = MHF
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = MHF
+		add_core_of = FKI
+		add_dynamic_modifier = {
+			modifier = rg_tea
+		}
+	}
+
+	provinces={
+			227 608 3127
+	}
+}

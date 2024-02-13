@@ -1,0 +1,35 @@
+state={
+	id=266
+	name="STATE_266"
+	manpower = 232000
+	local_supplies=1.0
+	state_category = large_town
+	 
+	resources = {
+	}
+
+	history={
+		victory_points = {
+			9576 20
+		}
+		victory_points = {
+			5848 5
+		}
+		owner = MHF
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			goods_factory = 1
+		}
+		add_dynamic_modifier = {
+			modifier = ig_clothes
+		}
+		add_dynamic_modifier = { modifier = unequal_treaties }
+		add_core_of = FKI
+		add_core_of = MHF
+	}
+
+	provinces={
+			5848 9576 
+	}
+}

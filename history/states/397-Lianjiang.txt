@@ -1,0 +1,32 @@
+state={
+	id=397
+	name="STATE_397"
+	manpower = 110000
+	local_supplies=1.0
+	state_category = town
+	resources = {
+	}
+
+	history={
+		victory_points = {
+			5566 10
+		}
+		victory_points = {
+			931 5
+		}
+		owner = HFJ
+		add_core_of = KWN
+		add_core_of = HFJ
+		buildings = {
+			infrastructure = 2
+			farm = 1
+		}
+
+		add_dynamic_modifier = { modifier = rg_salt }
+		add_dynamic_modifier = { modifier = unequal_treaties }
+	}
+
+	provinces={
+			931 2739 5566 9312 9317 
+	}
+}

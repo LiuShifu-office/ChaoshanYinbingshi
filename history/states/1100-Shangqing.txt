@@ -1,34 +1,33 @@
 state={
-	id=270
-	name="STATE_270"
-	manpower = 1350000
+	id=1100
+	name="STATE_1100"
+	manpower = 320009
 	local_supplies=1.0
-	state_category = pastoral
+	state_category = town
 	 
 	resources = {
+		steel = 6
 	}
 
 	history={
 		victory_points = {
-			368 2
+			1873 5
 		}
 		victory_points = {
-			2371 5
+			2289 3
 		}
-		owner = FKI
+		owner = MHF
 		buildings = {
 			infrastructure = 1
 			farm = 1
 		}
 		add_core_of = FKI
-		add_core_of = FKA
-		add_dynamic_modifier = {
-			modifier = rg_fish
-		}
+		add_core_of = MHF
+		add_dynamic_modifier = { modifier = rg_fish }
 		add_dynamic_modifier = { modifier = unequal_treaties }
 	}
 
 	provinces={
-			368 2371 8808
+		2289 1873
 	}
 }

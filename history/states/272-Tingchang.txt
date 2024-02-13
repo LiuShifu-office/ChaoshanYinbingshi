@@ -1,0 +1,43 @@
+state={
+	id=272
+	name="STATE_272"
+	manpower = 450000
+	local_supplies=1.0
+	state_category = pastoral
+	 
+	resources = {
+	}
+
+	history={
+		victory_points = {
+			4714 3
+		}
+		victory_points = {
+			8817 5
+		}
+		victory_points = {
+			4019 3
+		}
+		victory_points = {
+			5954 5
+		}
+		victory_points = {
+			8911 3
+		}
+		
+		owner = MHF
+		buildings = {
+			infrastructure = 1
+			farm = 1
+		}
+		add_core_of = MHF
+		add_core_of = FKI
+		add_dynamic_modifier = {
+			modifier = rg_fruits
+		}
+	}
+
+	provinces={
+			2079 4019 4714 5775 5954 8803 8817 8835 8843 8859 8911 8931 
+	}
+}
