@@ -1,0 +1,55 @@
+capital = 266
+
+set_country_flag = warlord_loyalty_south
+
+oob = "MHF_1919"
+
+set_popularities = {
+	independent = 85
+	japan = 0
+	germany = 0
+	soviet = 15
+	britain = 0
+	france = 0
+	america = 0
+	italy = 0
+}
+
+set_politics = {
+	ruling_party = independent
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_technology = {
+	medieval_weapon_1850 = 1 combat_weapon_1900 = 1
+	cavalry_training_1918 = 1
+	support_equipment_1918 = 1
+}
+
+add_equipment_to_stockpile = {
+    type = combat_equipment_1
+    amount = 1000
+}
+add_equipment_to_stockpile = {
+    type = gw_artillery_equipment_0
+    amount = 5
+}
+add_equipment_to_stockpile = {
+    type = support_equipment_0
+    amount = 125
+}
+
+add_ideas = MHF_su_ye_fei_jie
+add_ideas = MHF_anarchy_dream_minxing
+add_ideas = MHF_yue_army_battles
+add_ideas = MHF_zhang_base_bulidings
+
+
+
+
+
+
+
+
