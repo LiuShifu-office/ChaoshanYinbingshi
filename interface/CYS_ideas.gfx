@@ -1,0 +1,22 @@
+spriteTypes = {
+    spriteType = {
+		name = "GFX_MHF_su_ye_fei_jie"
+		texturefile = "gfx/interface/ideas/MHF_su_ye_fei_jie.png"
+		alwaystransparent = yes
+	}
+    spriteType = {
+		name = "GFX_MHF_anarchy_dream_minxing"
+		texturefile = "gfx/interface/ideas/MHF_anarchy_dream_minxing.png"
+		alwaystransparent = yes
+	}
+    spriteType = {
+		name = "GFX_MHF_yue_army_battles"
+		texturefile = "gfx/interface/ideas/MHF_yue_army_battles.png"
+		alwaystransparent = yes
+	}
+    spriteType = {
+		name = "GFX_MHF_zhang_base_bulidings"
+		texturefile = "gfx/interface/ideas/MHF_zhang_base_bulidings.png"
+		alwaystransparent = yes
+	}
+}
