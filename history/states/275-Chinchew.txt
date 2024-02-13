@@ -24,7 +24,7 @@ state={
 		victory_points = {
 			2126 3
 		}
-		owner = MHF
+		owner = FKA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -33,7 +33,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = FKI
+		add_core_of = FKA
 		add_core_of = MHF
 		add_dynamic_modifier = {
 			modifier = ig_canned_food
